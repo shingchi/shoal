@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Palatino, "Palatino Linotype", "Times New Roman", "Zhen Song", serif;
 }
 @media (min-width: 48em) {
   html {
