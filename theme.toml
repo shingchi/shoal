@@ -5,7 +5,7 @@ name = "Shoal"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = ""
-homepage = "http://example.com/"
+homepage = "https://github.com/shingchi/shoal"
 tags = []
 features = []
 min_version = "0.41.0"
@@ -13,6 +13,9 @@ min_version = "0.41.0"
 [author]
   name = ""
   homepage = ""
+
+[params]
+  themeColor = "theme-base-0c"
 
 # If porting an existing theme
 [original]
